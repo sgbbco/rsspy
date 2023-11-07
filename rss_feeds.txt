@@ -1,0 +1,203 @@
+Feed Title: Python
+Feed URL: http://www.reddit.com/r/python/.rss
+
+Entries:
+Title: Sunday Daily Thread: What's everyone working on this week?
+Link: https://www.reddit.com/r/Python/comments/17nz9ok/sunday_daily_thread_whats_everyone_working_on/
+Published: 2023-11-05T00:00:09+00:00
+
+Title: Tuesday Daily Thread: Advanced questions
+Link: https://www.reddit.com/r/Python/comments/17ph41k/tuesday_daily_thread_advanced_questions/
+Published: 2023-11-07T00:00:09+00:00
+
+Title: Best practices for scheduling Python workloads?
+Link: https://www.reddit.com/r/Python/comments/17q1nte/best_practices_for_scheduling_python_workloads/
+Published: 2023-11-07T19:03:20+00:00
+
+Title: Spark, Dask, DuckDB, Polars: TPC-H Benchmarks at Scale
+Link: https://www.reddit.com/r/Python/comments/17pwxfn/spark_dask_duckdb_polars_tpch_benchmarks_at_scale/
+Published: 2023-11-07T15:34:16+00:00
+
+Title: Your Guide to Finding Exoplanets: Python in Astronomy
+Link: https://www.reddit.com/r/Python/comments/17q2s25/your_guide_to_finding_exoplanets_python_in/
+Published: 2023-11-07T19:52:23+00:00
+
+Title: multirotor - Simulation of multi-rotor unmanned aerial vehicles (UAVs) in python.
+Link: https://www.reddit.com/r/Python/comments/17q0nsl/multirotor_simulation_of_multirotor_unmanned/
+Published: 2023-11-07T18:20:01+00:00
+
+Title: Python News: What's New From October 2023
+Link: https://www.reddit.com/r/Python/comments/17px8wo/python_news_whats_new_from_october_2023/
+Published: 2023-11-07T15:48:56+00:00
+
+Title: Should asterisk operator (*) also unpack list comprehensions?
+Link: https://www.reddit.com/r/Python/comments/17psl2w/should_asterisk_operator_also_unpack_list/
+Published: 2023-11-07T11:52:49+00:00
+
+Title: I built an AI chat app in pure python using Reflex
+Link: https://www.reddit.com/r/Python/comments/17q2dgh/i_built_an_ai_chat_app_in_pure_python_using_reflex/
+Published: 2023-11-07T19:34:40+00:00
+
+Title: Is there anything that will run Python that will fit in a golf ball?
+Link: https://www.reddit.com/r/Python/comments/17p89s8/is_there_anything_that_will_run_python_that_will/
+Published: 2023-11-06T17:40:28+00:00
+
+Title: ECS in practice with python lib - ecs_pattern
+Link: https://www.reddit.com/r/Python/comments/17pt1ps/ecs_in_practice_with_python_lib_ecs_pattern/
+Published: 2023-11-07T12:20:45+00:00
+
+Title: FastHttp for Python (64k requests/s)
+Link: https://www.reddit.com/r/Python/comments/17phrf8/fasthttp_for_python_64k_requestss/
+Published: 2023-11-07T00:30:40+00:00
+
+Title: Python pandas creator Wes McKinney has joined data science company Posit as a principal architect, signaling the company's efforts to play a bigger role in the Python universe as well as the R ecosystem
+Link: https://www.reddit.com/r/Python/comments/17phbd9/python_pandas_creator_wes_mckinney_has_joined/
+Published: 2023-11-07T00:09:37+00:00
+
+Title: Tchat: chat application in terminal using curses
+Link: https://www.reddit.com/r/Python/comments/17ptfnj/tchat_chat_application_in_terminal_using_curses/
+Published: 2023-11-07T12:42:45+00:00
+
+Title: conda 23.10 release: libmamba is now the default dependency solver
+Link: https://www.reddit.com/r/Python/comments/17pg1xh/conda_2310_release_libmamba_is_now_the_default/
+Published: 2023-11-06T23:10:45+00:00
+
+Title: Announcing cert-hero (v0.4): a Python Stand-alone Library to Download the SSL Certificate for Any Host
+Link: https://www.reddit.com/r/Python/comments/17pcdcc/announcing_certhero_v04_a_python_standalone/
+Published: 2023-11-06T20:36:26+00:00
+
+Title: Auto-complete in interactive Python shell (beginners tip)
+Link: https://www.reddit.com/r/Python/comments/17pdcxy/autocomplete_in_interactive_python_shell/
+Published: 2023-11-06T21:17:30+00:00
+
+Title: Coded a Data Analysis Assistant with Streamlit & Semantic Kernel
+Link: https://www.reddit.com/r/Python/comments/17p3cpi/coded_a_data_analysis_assistant_with_streamlit/
+Published: 2023-11-06T14:00:19+00:00
+
+Title: Build a real-time dashboard in Python with Tinybird and Dash
+Link: https://www.reddit.com/r/Python/comments/17paof5/build_a_realtime_dashboard_in_python_with/
+Published: 2023-11-06T19:23:30+00:00
+
+Title: Hey guys Hello from Django.
+Link: https://www.reddit.com/r/Python/comments/17pwh26/hey_guys_hello_from_django/
+Published: 2023-11-07T15:14:12+00:00
+
+Title: Tried making a Spotify to YouTube Playlist Tranferer as a project to start off my coding career, can I get some feedback?
+Link: https://www.reddit.com/r/Python/comments/17p89g5/tried_making_a_spotify_to_youtube_playlist/
+Published: 2023-11-06T17:40:05+00:00
+
+Title: How to Filter Outlook Emails With a Subject Using Python
+Link: https://www.reddit.com/r/Python/comments/17ppbe9/how_to_filter_outlook_emails_with_a_subject_using/
+Published: 2023-11-07T07:54:07+00:00
+
+Title: Wes McKinney - Joining Posit’s Polyglot Data Science Mission
+Link: https://www.reddit.com/r/Python/comments/17p8hc6/wes_mckinney_joining_posits_polyglot_data_science/
+Published: 2023-11-06T17:49:30+00:00
+
+Title: Use FastAPI and llama-cpp-python to Compute and Use Embeddings and Completions with Swiss Army Llama
+Link: https://www.reddit.com/r/Python/comments/17pje4k/use_fastapi_and_llamacpppython_to_compute_and_use/
+Published: 2023-11-07T01:51:13+00:00
+
+Title: 2,000 free sign ups available for the "Automate the Boring Stuff with Python" online course. (Nov 2023)
+Link: https://www.reddit.com/r/Python/comments/17offwd/2000_free_sign_ups_available_for_the_automate_the/
+Published: 2023-11-05T16:21:49+00:00
+
+Title: Robyn v0.45.0 - Create Robyn App, Supercharged!
+Link: https://www.reddit.com/r/Python/comments/17pa1kc/robyn_v0450_create_robyn_app_supercharged/
+Published: 2023-11-06T18:55:52+00:00
+
+Title: Where to host a terminal game that saves?
+Link: https://www.reddit.com/r/Python/comments/17p932q/where_to_host_a_terminal_game_that_saves/
+Published: 2023-11-06T18:14:54+00:00
+
+
+Feed Title: Technology on Medium
+Feed URL: https://medium.com/feed/topic/technology
+
+Entries:
+Title: Unlocking the Power of Private Clouds: Control, Security, and Edge Computing Solutions
+Link: https://medium.com/@usnewsper/unlocking-the-power-of-private-clouds-control-security-and-edge-computing-solutions-bab0f9b0918f?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:36:02 GMT
+
+Title: The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of…
+Link: https://medium.com/@contact_90365/the-art-of-invisibility-the-worlds-most-famous-hacker-teaches-you-how-to-be-safe-in-the-age-of-de7233a84308?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:33:09 GMT
+
+Title: 5 Signs Your Company is Ready for Amazing AI Creations!
+Link: https://medium.com/@usnewsper/5-signs-your-company-is-ready-for-amazing-ai-creations-bb29218a5421?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:26:46 GMT
+
+Title: ​​ EYWA and HyperGPT Combine Cross-chain and AI Technologies
+Link: https://medium.com/@eywaprotocol/eywa-and-hypergpt-combine-cross-chain-and-ai-technologies-464441d0710b?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:25:37 GMT
+
+Title: Germany wants to cut benefits for refugees
+Link: https://medium.com/@MatthiasS/germany-wants-to-cut-benefits-for-refugees-c366edd97496?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:25:12 GMT
+
+Title: Legal Labyrinth: Balancing AI Innovation with Enforcement
+Link: https://medium.com/@aarondiblasi/legal-labyrinth-balancing-ai-innovation-with-enforcement-a942bf0d0cd3?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:20:53 GMT
+
+Title: How to Check Your Laptop’s Battery Health
+Link: https://medium.com/@james.l.curtis/how-to-check-your-laptops-battery-health-6d457869568d?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:18:13 GMT
+
+Title: The Future of Tech: Trends and Innovations
+Link: https://medium.com/@yatee.trivedi/the-future-of-tech-trends-and-innovations-4cd26b7b2f7b?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:14:47 GMT
+
+Title: “The Innovators” by Walter Isaacson
+Link: https://medium.com/@mattk.black2.0/the-innovators-by-walter-isaacson-ffd07b313db9?source=rss------technology-5
+Published: Tue, 07 Nov 2023 22:01:58 GMT
+
+Title: The Question of AI Personhood and Rights: A Throne of Digital Contemplation
+Link: https://medium.com/@araujogabe1/the-question-of-ai-personhood-and-rights-a-throne-of-digital-contemplation-6aeecff8e9d7?source=rss------technology-5
+Published: Tue, 07 Nov 2023 21:58:08 GMT
+
+
+Feed Title: codeburst - Medium
+Feed URL: https://codeburst.io/feed/
+
+Entries:
+Title: Installing Backpack for Laravel Modules with a Line of Command
+Link: https://codeburst.io/installing-backpack-for-laravel-modules-with-a-line-of-command-eda01d72639f?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:38:11 GMT
+
+Title: Analyzing The Sentiment of Tweets With Java
+Link: https://codeburst.io/analyzing-the-sentiment-of-tweets-with-java-d65405666c33?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:37:27 GMT
+
+Title: AWS Cloud Front Functions — Beyond the Edge
+Link: https://codeburst.io/aws-cloud-front-functions-512d594d670a?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:36:26 GMT
+
+Title: Running Scrapy In Celery Tasks
+Link: https://codeburst.io/running-scrapy-in-celery-tasks-d81e159921ea?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:35:10 GMT
+
+Title: Networking Your Home: How and Why
+Link: https://codeburst.io/networking-your-home-how-and-why-7e5a96a49a0f?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:32:04 GMT
+
+Title: Fastai Course Chapter 4 Q&A on WSL2
+Link: https://codeburst.io/fastai-course-chapter-4-q-a-on-wsl2-9cb0a3bb4fb7?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:31:02 GMT
+
+Title: Fastai Course Chapter 3 Q&A on WSL2
+Link: https://codeburst.io/fastai-course-chapter-3-q-a-on-wsl2-9e5f0f2a6c1a?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:30:19 GMT
+
+Title: Fastai Course Chapter 2 on WSL2
+Link: https://codeburst.io/fastai-course-chapter-2-on-wsl2-23eedadd304f?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:30:02 GMT
+
+Title: Fastai Course Chapter 2 Q&A on WSL2
+Link: https://codeburst.io/fastai-course-chapter-2-q-a-on-wsl2-32290be44822?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:29:21 GMT
+
+Title: How To Inject CSS Code Into an HTML Page?
+Link: https://codeburst.io/how-to-inject-css-code-into-an-html-page-d3feb5c85b2b?source=rss----61061eb0c96b---4
+Published: Wed, 19 May 2021 01:27:50 GMT
+
+
