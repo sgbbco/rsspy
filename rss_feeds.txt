@@ -34,13 +34,13 @@ Title: Should asterisk operator (*) also unpack list comprehensions?
 Link: https://www.reddit.com/r/Python/comments/17psl2w/should_asterisk_operator_also_unpack_list/
 Published: 2023-11-07T11:52:49+00:00
 
-Title: I built an AI chat app in pure python using Reflex
-Link: https://www.reddit.com/r/Python/comments/17q2dgh/i_built_an_ai_chat_app_in_pure_python_using_reflex/
-Published: 2023-11-07T19:34:40+00:00
-
 Title: Is there anything that will run Python that will fit in a golf ball?
 Link: https://www.reddit.com/r/Python/comments/17p89s8/is_there_anything_that_will_run_python_that_will/
 Published: 2023-11-06T17:40:28+00:00
+
+Title: I built an AI chat app in pure python using Reflex
+Link: https://www.reddit.com/r/Python/comments/17q2dgh/i_built_an_ai_chat_app_in_pure_python_using_reflex/
+Published: 2023-11-07T19:34:40+00:00
 
 Title: ECS in practice with python lib - ecs_pattern
 Link: https://www.reddit.com/r/Python/comments/17pt1ps/ecs_in_practice_with_python_lib_ecs_pattern/
@@ -78,10 +78,6 @@ Title: Build a real-time dashboard in Python with Tinybird and Dash
 Link: https://www.reddit.com/r/Python/comments/17paof5/build_a_realtime_dashboard_in_python_with/
 Published: 2023-11-06T19:23:30+00:00
 
-Title: Hey guys Hello from Django.
-Link: https://www.reddit.com/r/Python/comments/17pwh26/hey_guys_hello_from_django/
-Published: 2023-11-07T15:14:12+00:00
-
 Title: Tried making a Spotify to YouTube Playlist Tranferer as a project to start off my coding career, can I get some feedback?
 Link: https://www.reddit.com/r/Python/comments/17p89g5/tried_making_a_spotify_to_youtube_playlist/
 Published: 2023-11-06T17:40:05+00:00
@@ -89,6 +85,10 @@ Published: 2023-11-06T17:40:05+00:00
 Title: How to Filter Outlook Emails With a Subject Using Python
 Link: https://www.reddit.com/r/Python/comments/17ppbe9/how_to_filter_outlook_emails_with_a_subject_using/
 Published: 2023-11-07T07:54:07+00:00
+
+Title: Hey guys Hello from Django.
+Link: https://www.reddit.com/r/Python/comments/17pwh26/hey_guys_hello_from_django/
+Published: 2023-11-07T15:14:12+00:00
 
 Title: Wes McKinney - Joining Posit’s Polyglot Data Science Mission
 Link: https://www.reddit.com/r/Python/comments/17p8hc6/wes_mckinney_joining_posits_polyglot_data_science/
@@ -115,45 +115,45 @@ Feed Title: Technology on Medium
 Feed URL: https://medium.com/feed/topic/technology
 
 Entries:
-Title: Unlocking the Power of Private Clouds: Control, Security, and Edge Computing Solutions
-Link: https://medium.com/@usnewsper/unlocking-the-power-of-private-clouds-control-security-and-edge-computing-solutions-bab0f9b0918f?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:36:02 GMT
+Title: Sarah Connor’s Legacy and AI: Choosing Your Way in a Tech-Driven World
+Link: https://medium.com/@vanessathegreeneyedraven/sarah-connors-legacy-and-ai-choosing-your-way-in-a-tech-driven-world-6732bffcc982?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:20:50 GMT
 
-Title: The Art of Invisibility: The World’s Most Famous Hacker Teaches You How to Be Safe in the Age of…
-Link: https://medium.com/@contact_90365/the-art-of-invisibility-the-worlds-most-famous-hacker-teaches-you-how-to-be-safe-in-the-age-of-de7233a84308?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:33:09 GMT
+Title: Drafted
+Link: https://medium.com/@HumanBeyond/drafted-3cccd8d66de1?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:17:06 GMT
 
-Title: 5 Signs Your Company is Ready for Amazing AI Creations!
-Link: https://medium.com/@usnewsper/5-signs-your-company-is-ready-for-amazing-ai-creations-bb29218a5421?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:26:46 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ad71765239dd?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:11:58 GMT
 
-Title: ​​ EYWA and HyperGPT Combine Cross-chain and AI Technologies
-Link: https://medium.com/@eywaprotocol/eywa-and-hypergpt-combine-cross-chain-and-ai-technologies-464441d0710b?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:25:37 GMT
+Title: 20+ Best Ideas for AI-based Products to Develop in 2024
+Link: https://medium.com/fively/20-best-ideas-for-ai-based-products-to-develop-in-2024-c3c7580ffc36?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:11:56 GMT
 
-Title: Germany wants to cut benefits for refugees
-Link: https://medium.com/@MatthiasS/germany-wants-to-cut-benefits-for-refugees-c366edd97496?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:25:12 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-2c555c2ae99f?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:11:16 GMT
 
-Title: Legal Labyrinth: Balancing AI Innovation with Enforcement
-Link: https://medium.com/@aarondiblasi/legal-labyrinth-balancing-ai-innovation-with-enforcement-a942bf0d0cd3?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:20:53 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-032b8f5bf850?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:10:29 GMT
 
-Title: How to Check Your Laptop’s Battery Health
-Link: https://medium.com/@james.l.curtis/how-to-check-your-laptops-battery-health-6d457869568d?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:18:13 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-7d1405afb5a7?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:09:26 GMT
 
-Title: The Future of Tech: Trends and Innovations
-Link: https://medium.com/@yatee.trivedi/the-future-of-tech-trends-and-innovations-4cd26b7b2f7b?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:14:47 GMT
+Title: Meta Pool Ambassador Program
+Link: https://medium.com/@nyamcat61/meta-pool-ambassador-program-8767de848ad1?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:08:59 GMT
 
-Title: “The Innovators” by Walter Isaacson
-Link: https://medium.com/@mattk.black2.0/the-innovators-by-walter-isaacson-ffd07b313db9?source=rss------technology-5
-Published: Tue, 07 Nov 2023 22:01:58 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-ceb3b14f1ebd?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:08:38 GMT
 
-Title: The Question of AI Personhood and Rights: A Throne of Digital Contemplation
-Link: https://medium.com/@araujogabe1/the-question-of-ai-personhood-and-rights-a-throne-of-digital-contemplation-6aeecff8e9d7?source=rss------technology-5
-Published: Tue, 07 Nov 2023 21:58:08 GMT
+Title: شماره خاله تهران شماره خاله تهران پارس شماره خاله اسلامشهر شماره خاله صیغه شماره خاله حضوری شماره…
+Link: https://medium.com/@shmarhkhalhthran28/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D8%B1%D8%B3-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%B5%DB%8C%D8%BA%D9%87-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-022d443206d6?source=rss------technology-5
+Published: Tue, 07 Nov 2023 23:08:01 GMT
 
 
 Feed Title: codeburst - Medium
